@@ -1,0 +1,53 @@
+[
+{
+  "id": 56,
+  "social_type": 1,
+  "id_bot": 0,
+  "useChromium": 0,
+  "listArgument": [
+    "string"
+  ],
+  "listArgumentChromium": [
+    "string"
+  ],
+  "account": {
+    "id": "",
+    "password": "",
+    "twofa": "",
+    "username": "",
+    "proxy": "192.168.143.102:4006"
+  },
+  "paramaterChromium": {
+    "service_path": "string",
+    "binary_location": "string"
+  },
+  "mode": {
+    "id": 1,
+    "name": "string",
+    "time_expired": 0.1,
+    "keyword": [
+      "string"
+    ],
+    "group_id": [
+      "string"
+    ],
+    "page_id": [
+      "string"
+    ],
+    "is_type": 0,
+    "type_auto": [
+      "string"
+    ],
+    "report_type": "string",
+    "MAX_SIZE_POST": 0,
+    "isCrawlComment": 0,
+    "MAX_SIZE_COMMENT": 0,
+    "is_join_private_group": 0,
+    "type_update": "string",
+    "range_date": [
+      "string"
+    ],
+    "start_time_run": "string"
+  }
+}
+]
